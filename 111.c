@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-int 
+int ab = 1；
