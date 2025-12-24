@@ -1,3 +1,9 @@
 #include <stdio.h>
 
-int ab = 1;
+
+int main()
+{
+    int ab = 1;
+    printf("?????\n");
+    return 0;
+}
